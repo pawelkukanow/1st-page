@@ -4,6 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Moja Prosta Strona</title>
+    <style>
+        body {
+            background-image: url('godlo.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+        }
+        h1 {
+            margin-top: 20%;
+        }
+        p {
+            font-size: 1.5em;
+        }
+    </style>
 </head>
 <body>
     <h1>Witaj na mojej stronie!</h1>
